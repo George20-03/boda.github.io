@@ -1,0 +1,6 @@
+{
+  "name": "Invitación de Boda Digital",
+  "description": "Invitación digital interactiva elegante para bodas y eventos especiales, con sobre animado, confirmación de asistencia, mapa y dedicatorias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
