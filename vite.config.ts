@@ -4,6 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+  base: '/boda.github.io/',
+
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
